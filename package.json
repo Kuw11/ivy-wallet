@@ -3,6 +3,6 @@
     "yarn": "^2.4.3"
   },
   "devDependencies": {
-    "danger": "^11.2.8"
+    "danger": "^13.0.4"
   }
 }
